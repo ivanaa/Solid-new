@@ -1,0 +1,173 @@
+   14401	[INFO]	XnLog.cpp	165	OpenNI version is 1.0.0 (Build 25)-MacOSX (Jan  7 2011 14:20:18)
+   14449	[INFO]	XnLog.cpp	173	Log system initialized. Console: 1, File: 1, Severity: INFO, Masks: ALL
+   14474	[INFO]	XnLog.cpp	173	Log system initialized. Console: 1, File: 1, Severity: INFO, Masks: ALL
+   15755	[INFO]	XnUSBLinux-x86.cpp	98	USB is initialized.
+ 3816181	[INFO]	XnOpenNI.cpp	1261	Creating node 'Device1' of type Device...
+ 3816977	[INFO]	XnDeviceModule.cpp	431	Module 'Device' configuration was loaded from file.
+ 9801349	[INFO]	XnDeviceSensorIO.cpp	135	Connected to USB device
+ 9801404	[INFO]	XnProperty.cpp	151	Property Device.USBPath was changed to 045e/02ae@253/8.
+ 9838879	[INFO]	XnHostProtocol.cpp	825	Hardware versions: FW=5.1.4 (7) HW=4 Chip=2 Sensor=4 SYS=7
+11248230	[INFO]	XnProperty.cpp	151	Property Device.ID was changed to 0.
+11248298	[INFO]	XnSensor.cpp	182	Device sensor initialized
+11248423	[INFO]	XnOpenNI.cpp	1261	Creating node 'Depth1' of type Depth...
+11248472	[INFO]	XnDeviceBase.cpp	1383	Creating stream 'Depth1' of type 'Depth'...
+11248497	[INFO]	XnProperty.cpp	74	Setting Device.ReadData to 1...
+11248540	[INFO]	XnDeviceSensorIO.cpp	298	Endpoints open
+11260792	[INFO]	XnProperty.cpp	151	Property Device.ReadData was changed to 1.
+11260844	[INFO]	XnProperty.cpp	101	Device.ReadData was successfully set.
+11261242	[INFO]	XnProperty.cpp	151	Property Depth1.Resolution was changed to 0.
+11261308	[INFO]	XnProperty.cpp	151	Property Depth1.XRes was changed to 320.
+11261338	[INFO]	XnProperty.cpp	151	Property Depth1.YRes was changed to 240.
+11261356	[INFO]	XnProperty.cpp	151	Property Depth1.FPS was changed to 30.
+11261374	[INFO]	XnProperty.cpp	151	Property Depth1.OutputFormat was changed to 1.
+11261390	[INFO]	XnProperty.cpp	151	Property Depth1.BytesPerPixel was changed to 2.
+11261408	[INFO]	XnProperty.cpp	151	Property Depth1.RequiredDataSize was changed to 153600.
+11261431	[INFO]	XnProperty.cpp	151	Property Depth1.ParamCoeff was changed to 4.
+11261502	[INFO]	XnProperty.cpp	151	Property Depth1.ShiftScale was changed to 10.
+11273857	[INFO]	XnProperty.cpp	151	Property Depth1.ConstShift was changed to 200.
+11273965	[INFO]	XnProperty.cpp	151	Property Depth1.ZPD was changed to 120.
+11274065	[INFO]	XnProperty.cpp	151	Property Depth1.ZPPS was changed to 0.104200.
+11274085	[INFO]	XnProperty.cpp	151	Property Depth1.LDDIS was changed to 7.500000.
+11274214	[INFO]	XnProperty.cpp	151	Property Depth1.Gain was changed to 30.
+11274263	[INFO]	XnDeviceBase.cpp	1458	Stream 'Depth1' was initialized.
+11274284	[INFO]	XnDeviceBase.cpp	1463	'Depth1' stream was created.
+11274495	[INFO]	XnProperty.cpp	74	Setting Depth1.InputFormat to 3...
+11274529	[INFO]	XnProperty.cpp	151	Property Depth1.InputFormat was changed to 3.
+11274549	[INFO]	XnProperty.cpp	101	Depth1.InputFormat was successfully set.
+11275188	[INFO]	XnProperty.cpp	74	Setting Depth1.RegistrationType to 2...
+11275220	[INFO]	XnProperty.cpp	151	Property Depth1.RegistrationType was changed to 2.
+11275241	[INFO]	XnProperty.cpp	101	Depth1.RegistrationType was successfully set.
+11275940	[INFO]	XnDeviceModule.cpp	431	Module 'Depth1' configuration was loaded from file.
+11276176	[INFO]	XnProperty.cpp	74	Setting Depth1.FPS to 30...
+11276200	[INFO]	XnProperty.cpp	86	Depth1.FPS value did not change.
+11276218	[INFO]	XnProperty.cpp	74	Setting Depth1.YRes to 480...
+11276241	[INFO]	XnProperty.cpp	151	Property Depth1.Resolution was changed to 1.
+11276263	[INFO]	XnProperty.cpp	151	Property Depth1.XRes was changed to 640.
+11276282	[INFO]	XnProperty.cpp	151	Property Depth1.RequiredDataSize was changed to 307200.
+11276306	[INFO]	XnProperty.cpp	151	Property Depth1.YRes was changed to 480.
+11276327	[INFO]	XnProperty.cpp	151	Property Depth1.RequiredDataSize was changed to 614400.
+11276349	[INFO]	XnProperty.cpp	101	Depth1.YRes was successfully set.
+11276371	[INFO]	XnProperty.cpp	74	Setting Depth1.XRes to 640...
+11276389	[INFO]	XnProperty.cpp	86	Depth1.XRes value did not change.
+11276453	[INFO]	XnProperty.cpp	74	Setting Depth1.Mirror to 1...
+11276478	[INFO]	XnProperty.cpp	151	Property Depth1.FirmwareMirror was changed to 1.
+11276544	[INFO]	XnProperty.cpp	151	Property Depth1.Mirror was changed to 1.
+11276564	[INFO]	XnProperty.cpp	101	Depth1.Mirror was successfully set.
+13272272	[INFO]	XnOpenNI.cpp	1261	Creating node 'User1' of type User...
+13428082	[WARNING]	Linux-x86Threads.cpp	173	Failed to set thread priority: Invalid argument
+13428125	[WARNING]	XnUSBLinux-x86.cpp	126	USB events thread: Failed to set thread priority to critical. This might cause loss of data...
+13428849	[INFO]	XnUSBLinux-x86.cpp	1222	USB read thread was started.
+13428879	[INFO]	XnProperty.cpp	151	Property Depth1.ActualReadData was changed to 1.
+13900842	[INFO]	XnProperty.cpp	151	Property Depth1.State was changed to 1.
+13900889	[INFO]	XnDeviceBase.cpp	370	Stream Depth1 is open.
+16409178	[INFO]	XnOpenNI.cpp	1261	Creating node 'Image1' of type Image...
+16409236	[INFO]	XnDeviceBase.cpp	1383	Creating stream 'Image1' of type 'Image'...
+16409474	[INFO]	XnProperty.cpp	151	Property Image1.Resolution was changed to 0.
+16409504	[INFO]	XnProperty.cpp	151	Property Image1.XRes was changed to 320.
+16409523	[INFO]	XnProperty.cpp	151	Property Image1.YRes was changed to 240.
+16409541	[INFO]	XnProperty.cpp	151	Property Image1.FPS was changed to 30.
+16409556	[INFO]	XnProperty.cpp	151	Property Image1.OutputFormat was changed to 5.
+16409573	[INFO]	XnProperty.cpp	151	Property Image1.BytesPerPixel was changed to 3.
+16409590	[INFO]	XnProperty.cpp	151	Property Image1.RequiredDataSize was changed to 230400.
+16409630	[INFO]	XnDeviceBase.cpp	1458	Stream 'Image1' was initialized.
+16409652	[INFO]	XnDeviceBase.cpp	1463	'Image1' stream was created.
+16409792	[INFO]	XnProperty.cpp	74	Setting Image1.InputFormat to 6...
+16409819	[INFO]	XnProperty.cpp	151	Property Image1.InputFormat was changed to 6.
+16409836	[INFO]	XnProperty.cpp	101	Image1.InputFormat was successfully set.
+16410464	[INFO]	XnDeviceModule.cpp	431	Module 'Image1' configuration was loaded from file.
+16410605	[INFO]	XnProperty.cpp	74	Setting Image1.FPS to 30...
+16410628	[INFO]	XnProperty.cpp	86	Image1.FPS value did not change.
+16410644	[INFO]	XnProperty.cpp	74	Setting Image1.YRes to 480...
+16410662	[INFO]	XnProperty.cpp	151	Property Image1.Resolution was changed to 1.
+16410679	[INFO]	XnProperty.cpp	151	Property Image1.XRes was changed to 640.
+16410698	[INFO]	XnProperty.cpp	151	Property Image1.RequiredDataSize was changed to 460800.
+16410839	[INFO]	XnProperty.cpp	151	Property Image1.YRes was changed to 480.
+16410860	[INFO]	XnProperty.cpp	151	Property Image1.RequiredDataSize was changed to 921600.
+16410883	[INFO]	XnProperty.cpp	101	Image1.YRes was successfully set.
+16410904	[INFO]	XnProperty.cpp	74	Setting Image1.XRes to 640...
+16410922	[INFO]	XnProperty.cpp	86	Image1.XRes value did not change.
+16412554	[INFO]	XnUSBLinux-x86.cpp	1222	USB read thread was started.
+16412611	[INFO]	XnProperty.cpp	151	Property Image1.ActualReadData was changed to 1.
+16589528	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0x4948)!!!
+16601516	[WARNING]	XnDepthProcessor.cpp	133	Read: Depth buffer is corrupt. Size is 533952 (!= 614400)
+16601565	[WARNING]	XnFrameStreamProcessor.cpp	132	Depth frame is corrupt!
+19506798	[WARNING]	XnDepthProcessor.cpp	133	Read: Depth buffer is corrupt. Size is 591776 (!= 614400)
+19506843	[WARNING]	XnFrameStreamProcessor.cpp	132	Depth frame is corrupt!
+19614884	[INFO]	XnProperty.cpp	151	Property Image1.State was changed to 1.
+19614932	[INFO]	XnDeviceBase.cpp	370	Stream Image1 is open.
+19615129	[INFO]	XnProperty.cpp	74	Setting Depth1.Registration to 1...
+19674779	[WARNING]	XnDepthProcessor.cpp	133	Read: Depth buffer is corrupt. Size is 589984 (!= 614400)
+19674835	[WARNING]	XnFrameStreamProcessor.cpp	132	Depth frame is corrupt!
+19770035	[INFO]	XnProperty.cpp	151	Property Depth1.Registration was changed to 1.
+19770078	[INFO]	XnProperty.cpp	101	Depth1.Registration was successfully set.
+19770126	[INFO]	XnProperty.cpp	74	Setting Image1.Mirror to 1...
+19782538	[INFO]	XnProperty.cpp	151	Property Image1.FirmwareMirror was changed to 1.
+19782582	[INFO]	XnProperty.cpp	151	Property Image1.Mirror was changed to 1.
+19782594	[INFO]	XnProperty.cpp	101	Image1.Mirror was successfully set.
+51711411	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x81, Buffer 3: Asynch transfer failed (status: 5)
+51711476	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x81, Buffer 3: Failed to re-submit asynch I/O transfer (err=-4)!
+51711495	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x81, Buffer 4: Asynch transfer failed (status: 5)
+51711513	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x81, Buffer 4: Failed to re-submit asynch I/O transfer (err=-4)!
+51711535	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x81, Buffer 5: Asynch transfer failed (status: 5)
+51711553	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x81, Buffer 5: Failed to re-submit asynch I/O transfer (err=-4)!
+51711571	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x81, Buffer 6: Asynch transfer failed (status: 5)
+51711588	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x81, Buffer 6: Failed to re-submit asynch I/O transfer (err=-4)!
+51711605	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x81, Buffer 7: Asynch transfer failed (status: 5)
+51711622	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x81, Buffer 7: Failed to re-submit asynch I/O transfer (err=-4)!
+51711639	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x81, Buffer 8: Asynch transfer failed (status: 5)
+51711659	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x81, Buffer 8: Failed to re-submit asynch I/O transfer (err=-4)!
+51711727	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x81, Buffer 9: Asynch transfer failed (status: 5)
+51711754	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x81, Buffer 9: Failed to re-submit asynch I/O transfer (err=-4)!
+51711771	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x81, Buffer 10: Asynch transfer failed (status: 5)
+51711808	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x81, Buffer 10: Failed to re-submit asynch I/O transfer (err=-4)!
+51711832	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x81, Buffer 11: Asynch transfer failed (status: 5)
+51711852	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x81, Buffer 11: Failed to re-submit asynch I/O transfer (err=-4)!
+51711868	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x81, Buffer 12: Asynch transfer failed (status: 5)
+51711887	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x81, Buffer 12: Failed to re-submit asynch I/O transfer (err=-4)!
+51711904	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x81, Buffer 13: Asynch transfer failed (status: 5)
+51711924	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x81, Buffer 13: Failed to re-submit asynch I/O transfer (err=-4)!
+51711942	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x81, Buffer 14: Asynch transfer failed (status: 5)
+51711959	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x81, Buffer 14: Failed to re-submit asynch I/O transfer (err=-4)!
+51711976	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x81, Buffer 15: Asynch transfer failed (status: 5)
+51711991	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x81, Buffer 15: Failed to re-submit asynch I/O transfer (err=-4)!
+51712006	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x81, Buffer 0: Asynch transfer failed (status: 5)
+51712029	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x81, Buffer 0: Failed to re-submit asynch I/O transfer (err=-4)!
+51712048	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x81, Buffer 1: Asynch transfer failed (status: 5)
+51712065	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x81, Buffer 1: Failed to re-submit asynch I/O transfer (err=-4)!
+51712082	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x81, Buffer 2: Asynch transfer failed (status: 5)
+51712099	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x81, Buffer 2: Failed to re-submit asynch I/O transfer (err=-4)!
+51716039	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 12: Failed to re-submit asynch I/O transfer (err=-99)!
+51716134	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x82, Buffer 13: Asynch transfer failed (status: 5)
+51716373	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 13: Failed to re-submit asynch I/O transfer (err=-4)!
+51716393	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x82, Buffer 14: Asynch transfer failed (status: 5)
+51716413	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 14: Failed to re-submit asynch I/O transfer (err=-4)!
+51716478	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x82, Buffer 15: Asynch transfer failed (status: 5)
+51716498	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 15: Failed to re-submit asynch I/O transfer (err=-4)!
+51716515	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x82, Buffer 0: Asynch transfer failed (status: 5)
+51716535	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 0: Failed to re-submit asynch I/O transfer (err=-4)!
+51716554	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x82, Buffer 1: Asynch transfer failed (status: 5)
+51716597	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 1: Failed to re-submit asynch I/O transfer (err=-4)!
+51716620	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x82, Buffer 2: Asynch transfer failed (status: 5)
+51716640	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 2: Failed to re-submit asynch I/O transfer (err=-4)!
+51716659	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x82, Buffer 3: Asynch transfer failed (status: 5)
+51716680	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 3: Failed to re-submit asynch I/O transfer (err=-4)!
+51716699	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x82, Buffer 4: Asynch transfer failed (status: 5)
+51716718	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 4: Failed to re-submit asynch I/O transfer (err=-4)!
+51716736	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x82, Buffer 5: Asynch transfer failed (status: 5)
+51716754	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 5: Failed to re-submit asynch I/O transfer (err=-4)!
+51716773	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x82, Buffer 6: Asynch transfer failed (status: 5)
+51716790	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 6: Failed to re-submit asynch I/O transfer (err=-4)!
+51716805	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x82, Buffer 7: Asynch transfer failed (status: 5)
+51716822	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 7: Failed to re-submit asynch I/O transfer (err=-4)!
+51716839	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x82, Buffer 8: Asynch transfer failed (status: 5)
+51716857	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 8: Failed to re-submit asynch I/O transfer (err=-4)!
+51716877	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x82, Buffer 9: Asynch transfer failed (status: 5)
+51716896	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 9: Failed to re-submit asynch I/O transfer (err=-4)!
+51716914	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x82, Buffer 10: Asynch transfer failed (status: 5)
+51716934	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 10: Failed to re-submit asynch I/O transfer (err=-4)!
+51716953	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x82, Buffer 11: Asynch transfer failed (status: 5)
+51716974	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 11: Failed to re-submit asynch I/O transfer (err=-4)!
+51716993	[WARNING]	XnUSBLinux-x86.cpp	1078	Endpoint 0x82, Buffer 12: Asynch transfer failed (status: 5)
+51717011	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 12: Failed to re-submit asynch I/O transfer (err=-4)!
+51812176	[ERROR]	XnUSBLinux-x86.cpp	1011	Endpoint 0x81, Buffer 3: Failed to cancel asynch I/O transfer (err=-4)!
+51817146	[ERROR]	XnUSBLinux-x86.cpp	1011	Endpoint 0x82, Buffer 13: Failed to cancel asynch I/O transfer (err=-4)!

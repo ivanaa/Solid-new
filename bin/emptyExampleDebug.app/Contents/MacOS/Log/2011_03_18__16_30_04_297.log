@@ -1,0 +1,9 @@
+    1689	[INFO]	XnLog.cpp	165	OpenNI version is 1.0.0 (Build 25)-MacOSX (Jan  7 2011 14:20:18)
+    1728	[INFO]	XnLog.cpp	173	Log system initialized. Console: 1, File: 1, Severity: INFO, Masks: ALL
+    1760	[INFO]	XnLog.cpp	173	Log system initialized. Console: 1, File: 1, Severity: INFO, Masks: ALL
+    3035	[INFO]	XnUSBLinux-x86.cpp	98	USB is initialized.
+ 1769063	[INFO]	XnOpenNI.cpp	1261	Creating node 'Device1' of type Device...
+ 1770564	[INFO]	XnDeviceModule.cpp	431	Module 'Device' configuration was loaded from file.
+ 1932769	[INFO]	XnDeviceSensorIO.cpp	135	Connected to USB device
+ 1932822	[INFO]	XnProperty.cpp	151	Property Device.USBPath was changed to 045e/02ae@250/10.
+ 1940651	[INFO]	XnHostProtocol.cpp	825	Hardware versions: FW=5.1.4 (7) HW=4 Chip=2 Sensor=4 SYS=7

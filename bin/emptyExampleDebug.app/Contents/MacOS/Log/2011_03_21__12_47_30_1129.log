@@ -1,0 +1,347 @@
+   47844	[INFO]	XnLog.cpp	165	OpenNI version is 1.0.0 (Build 25)-MacOSX (Jan  7 2011 14:20:18)
+   47912	[INFO]	XnLog.cpp	173	Log system initialized. Console: 1, File: 1, Severity: INFO, Masks: ALL
+   47952	[INFO]	XnLog.cpp	173	Log system initialized. Console: 1, File: 1, Severity: INFO, Masks: ALL
+   50384	[INFO]	XnUSBLinux-x86.cpp	98	USB is initialized.
+ 3110759	[INFO]	XnOpenNI.cpp	1261	Creating node 'Device1' of type Device...
+ 3111777	[INFO]	XnDeviceModule.cpp	431	Module 'Device' configuration was loaded from file.
+ 3712994	[INFO]	XnDeviceSensorIO.cpp	135	Connected to USB device
+ 3713048	[INFO]	XnProperty.cpp	151	Property Device.USBPath was changed to 045e/02ae@253/8.
+ 3720649	[INFO]	XnHostProtocol.cpp	825	Hardware versions: FW=5.1.4 (7) HW=4 Chip=2 Sensor=4 SYS=7
+ 5130272	[INFO]	XnProperty.cpp	151	Property Device.ID was changed to 0.
+ 5130351	[INFO]	XnSensor.cpp	182	Device sensor initialized
+ 5130444	[INFO]	XnOpenNI.cpp	1261	Creating node 'Depth1' of type Depth...
+ 5130481	[INFO]	XnDeviceBase.cpp	1383	Creating stream 'Depth1' of type 'Depth'...
+ 5130500	[INFO]	XnProperty.cpp	74	Setting Device.ReadData to 1...
+ 5130530	[INFO]	XnDeviceSensorIO.cpp	298	Endpoints open
+ 5143085	[INFO]	XnProperty.cpp	151	Property Device.ReadData was changed to 1.
+ 5143147	[INFO]	XnProperty.cpp	101	Device.ReadData was successfully set.
+ 5143543	[INFO]	XnProperty.cpp	151	Property Depth1.Resolution was changed to 0.
+ 5143568	[INFO]	XnProperty.cpp	151	Property Depth1.XRes was changed to 320.
+ 5143586	[INFO]	XnProperty.cpp	151	Property Depth1.YRes was changed to 240.
+ 5143602	[INFO]	XnProperty.cpp	151	Property Depth1.FPS was changed to 30.
+ 5143622	[INFO]	XnProperty.cpp	151	Property Depth1.OutputFormat was changed to 1.
+ 5143637	[INFO]	XnProperty.cpp	151	Property Depth1.BytesPerPixel was changed to 2.
+ 5143653	[INFO]	XnProperty.cpp	151	Property Depth1.RequiredDataSize was changed to 153600.
+ 5143678	[INFO]	XnProperty.cpp	151	Property Depth1.ParamCoeff was changed to 4.
+ 5143749	[INFO]	XnProperty.cpp	151	Property Depth1.ShiftScale was changed to 10.
+ 5156123	[INFO]	XnProperty.cpp	151	Property Depth1.ConstShift was changed to 200.
+ 5156225	[INFO]	XnProperty.cpp	151	Property Depth1.ZPD was changed to 120.
+ 5156325	[INFO]	XnProperty.cpp	151	Property Depth1.ZPPS was changed to 0.104200.
+ 5156343	[INFO]	XnProperty.cpp	151	Property Depth1.LDDIS was changed to 7.500000.
+ 5156438	[INFO]	XnProperty.cpp	151	Property Depth1.Gain was changed to 30.
+ 5156471	[INFO]	XnDeviceBase.cpp	1458	Stream 'Depth1' was initialized.
+ 5156486	[INFO]	XnDeviceBase.cpp	1463	'Depth1' stream was created.
+ 5156635	[INFO]	XnProperty.cpp	74	Setting Depth1.InputFormat to 3...
+ 5156655	[INFO]	XnProperty.cpp	151	Property Depth1.InputFormat was changed to 3.
+ 5156668	[INFO]	XnProperty.cpp	101	Depth1.InputFormat was successfully set.
+ 5157182	[INFO]	XnProperty.cpp	74	Setting Depth1.RegistrationType to 2...
+ 5157205	[INFO]	XnProperty.cpp	151	Property Depth1.RegistrationType was changed to 2.
+ 5157224	[INFO]	XnProperty.cpp	101	Depth1.RegistrationType was successfully set.
+ 5157847	[INFO]	XnDeviceModule.cpp	431	Module 'Depth1' configuration was loaded from file.
+ 5158012	[INFO]	XnProperty.cpp	74	Setting Depth1.FPS to 30...
+ 5158032	[INFO]	XnProperty.cpp	86	Depth1.FPS value did not change.
+ 5158051	[INFO]	XnProperty.cpp	74	Setting Depth1.YRes to 480...
+ 5158073	[INFO]	XnProperty.cpp	151	Property Depth1.Resolution was changed to 1.
+ 5158092	[INFO]	XnProperty.cpp	151	Property Depth1.XRes was changed to 640.
+ 5158110	[INFO]	XnProperty.cpp	151	Property Depth1.RequiredDataSize was changed to 307200.
+ 5158131	[INFO]	XnProperty.cpp	151	Property Depth1.YRes was changed to 480.
+ 5158149	[INFO]	XnProperty.cpp	151	Property Depth1.RequiredDataSize was changed to 614400.
+ 5158167	[INFO]	XnProperty.cpp	101	Depth1.YRes was successfully set.
+ 5158185	[INFO]	XnProperty.cpp	74	Setting Depth1.XRes to 640...
+ 5158201	[INFO]	XnProperty.cpp	86	Depth1.XRes value did not change.
+ 5158255	[INFO]	XnProperty.cpp	74	Setting Depth1.Mirror to 1...
+ 5158275	[INFO]	XnProperty.cpp	151	Property Depth1.FirmwareMirror was changed to 1.
+ 5158326	[INFO]	XnProperty.cpp	151	Property Depth1.Mirror was changed to 1.
+ 5158344	[INFO]	XnProperty.cpp	101	Depth1.Mirror was successfully set.
+ 9980252	[INFO]	XnOpenNI.cpp	1261	Creating node 'User1' of type User...
+10005876	[WARNING]	Linux-x86Threads.cpp	173	Failed to set thread priority: Invalid argument
+10005921	[WARNING]	XnUSBLinux-x86.cpp	126	USB events thread: Failed to set thread priority to critical. This might cause loss of data...
+10006613	[INFO]	XnUSBLinux-x86.cpp	1222	USB read thread was started.
+10006636	[INFO]	XnProperty.cpp	151	Property Depth1.ActualReadData was changed to 1.
+10210633	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10210683	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10210701	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10210718	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10210740	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10210761	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10210774	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10210788	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10210805	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10210824	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10210842	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10210859	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10210878	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10210894	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10210912	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10210937	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10210959	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10210977	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10210994	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10211011	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10211028	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10211045	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10211062	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10214704	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10214753	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10214769	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10214785	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10214802	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10214817	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10214835	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10214853	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10214870	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10214887	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10214904	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10214921	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10214938	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10214955	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10214972	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10214989	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10215006	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10215023	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10215039	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10215056	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10215073	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10215090	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10215107	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10215162	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10215181	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10215198	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10215215	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10215232	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10215249	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10215266	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10215282	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10218637	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10218663	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10218680	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10218697	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10218713	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10218730	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10218746	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10218762	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10218778	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10218795	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10218812	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10218829	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10218846	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10218862	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10218878	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10218894	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10218910	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10218926	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10218942	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10218958	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10218975	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10218991	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10219007	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10219023	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10219039	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10219056	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10219073	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10219091	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10219107	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10219123	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10219140	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10219156	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10222635	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10222671	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10222688	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10222705	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10222722	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10222739	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10222756	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10222773	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10222789	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10222806	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10222822	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10222838	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10222854	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10222900	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10222917	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10222934	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10222950	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10222967	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10222983	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10222999	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10223016	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10223032	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10223049	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10223065	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10223081	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10223097	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10223114	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10223130	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10223146	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10223162	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10223178	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10223195	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226691	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226713	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226725	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226735	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226746	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226757	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226768	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226779	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226790	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226801	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226812	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226823	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226834	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226845	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226856	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226867	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226878	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226889	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226901	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226911	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226923	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226933	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226944	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226955	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226966	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226977	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226988	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10226999	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10227010	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10227021	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10227032	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230683	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230702	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230713	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230738	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230750	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230761	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230772	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230786	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230797	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230810	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230821	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230831	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230841	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230853	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230866	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230883	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230897	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230910	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230921	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230931	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230941	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230951	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230961	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230971	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230982	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10230993	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10231004	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10231015	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10231026	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10231037	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10231048	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10231058	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234624	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234653	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234664	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234676	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234687	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234698	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234709	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234720	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234731	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234742	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234753	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234764	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234775	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234786	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234797	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234808	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234819	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234830	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234841	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234852	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234864	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234875	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234886	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234897	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234925	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234937	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234948	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234959	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234970	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234981	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10234992	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10235003	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238637	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238662	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238673	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238685	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238696	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238707	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238718	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238729	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238740	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238751	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238762	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238773	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238783	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238794	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238805	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238816	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238828	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238839	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238850	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238861	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238873	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238884	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238894	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238910	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238927	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238940	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238952	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238963	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10238974	[WARNING]	XnFirmwareStreams.cpp	324	Unknown packet type (0xfade)!!!
+10477428	[INFO]	XnProperty.cpp	151	Property Depth1.State was changed to 1.
+10477471	[INFO]	XnDeviceBase.cpp	370	Stream Depth1 is open.
+14736209	[INFO]	XnOpenNI.cpp	1261	Creating node 'Image1' of type Image...
+14736260	[INFO]	XnDeviceBase.cpp	1383	Creating stream 'Image1' of type 'Image'...
+14736439	[INFO]	XnProperty.cpp	151	Property Image1.Resolution was changed to 0.
+14736458	[INFO]	XnProperty.cpp	151	Property Image1.XRes was changed to 320.
+14736471	[INFO]	XnProperty.cpp	151	Property Image1.YRes was changed to 240.
+14736483	[INFO]	XnProperty.cpp	151	Property Image1.FPS was changed to 30.
+14736494	[INFO]	XnProperty.cpp	151	Property Image1.OutputFormat was changed to 5.
+14736506	[INFO]	XnProperty.cpp	151	Property Image1.BytesPerPixel was changed to 3.
+14736519	[INFO]	XnProperty.cpp	151	Property Image1.RequiredDataSize was changed to 230400.
+14736546	[INFO]	XnDeviceBase.cpp	1458	Stream 'Image1' was initialized.
+14736560	[INFO]	XnDeviceBase.cpp	1463	'Image1' stream was created.
+14736665	[INFO]	XnProperty.cpp	74	Setting Image1.InputFormat to 6...
+14736688	[INFO]	XnProperty.cpp	151	Property Image1.InputFormat was changed to 6.
+14736702	[INFO]	XnProperty.cpp	101	Image1.InputFormat was successfully set.
+14737125	[INFO]	XnDeviceModule.cpp	431	Module 'Image1' configuration was loaded from file.
+14737244	[INFO]	XnProperty.cpp	74	Setting Image1.FPS to 30...
+14737260	[INFO]	XnProperty.cpp	86	Image1.FPS value did not change.
+14737272	[INFO]	XnProperty.cpp	74	Setting Image1.YRes to 480...
+14737284	[INFO]	XnProperty.cpp	151	Property Image1.Resolution was changed to 1.
+14737296	[INFO]	XnProperty.cpp	151	Property Image1.XRes was changed to 640.
+14737308	[INFO]	XnProperty.cpp	151	Property Image1.RequiredDataSize was changed to 460800.
+14737321	[INFO]	XnProperty.cpp	151	Property Image1.YRes was changed to 480.
+14737333	[INFO]	XnProperty.cpp	151	Property Image1.RequiredDataSize was changed to 921600.
+14737345	[INFO]	XnProperty.cpp	101	Image1.YRes was successfully set.
+14737357	[INFO]	XnProperty.cpp	74	Setting Image1.XRes to 640...
+14737368	[INFO]	XnProperty.cpp	86	Image1.XRes value did not change.
+14738206	[INFO]	XnUSBLinux-x86.cpp	1222	USB read thread was started.
+14738246	[INFO]	XnProperty.cpp	151	Property Image1.ActualReadData was changed to 1.
+17938871	[INFO]	XnProperty.cpp	151	Property Image1.State was changed to 1.
+17938916	[INFO]	XnDeviceBase.cpp	370	Stream Image1 is open.
+17939119	[INFO]	XnProperty.cpp	74	Setting Depth1.Registration to 1...
+18091959	[INFO]	XnProperty.cpp	151	Property Depth1.Registration was changed to 1.
+18092010	[INFO]	XnProperty.cpp	101	Depth1.Registration was successfully set.
+18092069	[INFO]	XnProperty.cpp	74	Setting Image1.Mirror to 1...
+18104328	[INFO]	XnProperty.cpp	151	Property Image1.FirmwareMirror was changed to 1.
+18104378	[INFO]	XnProperty.cpp	151	Property Image1.Mirror was changed to 1.
+18104394	[INFO]	XnProperty.cpp	101	Image1.Mirror was successfully set.
+105707445	[INFO]	XnOpenNI.cpp	1459	Destroying node 'User1'
+105714968	[INFO]	XnOpenNI.cpp	1459	Destroying node 'Depth1'
+105715060	[INFO]	XnDeviceBase.cpp	1507	Destroying stream 'Depth1'...
+105716168	[INFO]	XnOpenNI.cpp	1459	Destroying node 'Image1'
+105716229	[INFO]	XnDeviceBase.cpp	1507	Destroying stream 'Image1'...
+105716928	[INFO]	XnOpenNI.cpp	1459	Destroying node 'Device1'

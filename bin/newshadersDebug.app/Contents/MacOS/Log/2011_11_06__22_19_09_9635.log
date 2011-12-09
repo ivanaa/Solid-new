@@ -1,0 +1,55 @@
+  112415	[INFO]	XnLog.cpp	165	OpenNI version is 1.0.0 (Build 25)-MacOSX (Jan  7 2011 14:20:18)
+  112479	[INFO]	XnLog.cpp	173	Log system initialized. Console: 1, File: 1, Severity: INFO, Masks: ALL
+  112504	[INFO]	XnLog.cpp	173	Log system initialized. Console: 1, File: 1, Severity: INFO, Masks: ALL
+  114146	[INFO]	XnUSBLinux-x86.cpp	98	USB is initialized.
+43977090	[INFO]	XnOpenNI.cpp	1261	Creating node 'Device1' of type Device...
+44001050	[INFO]	XnDeviceModule.cpp	431	Module 'Device' configuration was loaded from file.
+50213170	[INFO]	XnDeviceSensorIO.cpp	135	Connected to USB device
+50213226	[INFO]	XnProperty.cpp	151	Property Device.USBPath was changed to 045e/02ae@253/8.
+50244881	[INFO]	XnHostProtocol.cpp	825	Hardware versions: FW=5.1.4 (7) HW=4 Chip=2 Sensor=4 SYS=7
+51649950	[INFO]	XnProperty.cpp	151	Property Device.ID was changed to 0.
+51650017	[INFO]	XnSensor.cpp	182	Device sensor initialized
+51650132	[INFO]	XnOpenNI.cpp	1261	Creating node 'Depth1' of type Depth...
+51650183	[INFO]	XnDeviceBase.cpp	1383	Creating stream 'Depth1' of type 'Depth'...
+51650206	[INFO]	XnProperty.cpp	74	Setting Device.ReadData to 1...
+51650247	[INFO]	XnDeviceSensorIO.cpp	298	Endpoints open
+51662490	[INFO]	XnProperty.cpp	151	Property Device.ReadData was changed to 1.
+51662534	[INFO]	XnProperty.cpp	101	Device.ReadData was successfully set.
+51662934	[INFO]	XnProperty.cpp	151	Property Depth1.Resolution was changed to 0.
+51662956	[INFO]	XnProperty.cpp	151	Property Depth1.XRes was changed to 320.
+51662970	[INFO]	XnProperty.cpp	151	Property Depth1.YRes was changed to 240.
+51662982	[INFO]	XnProperty.cpp	151	Property Depth1.FPS was changed to 30.
+51662993	[INFO]	XnProperty.cpp	151	Property Depth1.OutputFormat was changed to 1.
+51663005	[INFO]	XnProperty.cpp	151	Property Depth1.BytesPerPixel was changed to 2.
+51663017	[INFO]	XnProperty.cpp	151	Property Depth1.RequiredDataSize was changed to 153600.
+51663039	[INFO]	XnProperty.cpp	151	Property Depth1.ParamCoeff was changed to 4.
+51663112	[INFO]	XnProperty.cpp	151	Property Depth1.ShiftScale was changed to 10.
+51675177	[INFO]	XnProperty.cpp	151	Property Depth1.ConstShift was changed to 200.
+51675267	[INFO]	XnProperty.cpp	151	Property Depth1.ZPD was changed to 120.
+51675364	[INFO]	XnProperty.cpp	151	Property Depth1.ZPPS was changed to 0.104200.
+51675379	[INFO]	XnProperty.cpp	151	Property Depth1.LDDIS was changed to 7.500000.
+51675485	[INFO]	XnProperty.cpp	151	Property Depth1.Gain was changed to 30.
+51675529	[INFO]	XnDeviceBase.cpp	1458	Stream 'Depth1' was initialized.
+51675552	[INFO]	XnDeviceBase.cpp	1463	'Depth1' stream was created.
+51675698	[INFO]	XnProperty.cpp	74	Setting Depth1.InputFormat to 3...
+51675721	[INFO]	XnProperty.cpp	151	Property Depth1.InputFormat was changed to 3.
+51675734	[INFO]	XnProperty.cpp	101	Depth1.InputFormat was successfully set.
+51676170	[INFO]	XnProperty.cpp	74	Setting Depth1.RegistrationType to 2...
+51676186	[INFO]	XnProperty.cpp	151	Property Depth1.RegistrationType was changed to 2.
+51676197	[INFO]	XnProperty.cpp	101	Depth1.RegistrationType was successfully set.
+51676692	[INFO]	XnDeviceModule.cpp	431	Module 'Depth1' configuration was loaded from file.
+51676938	[INFO]	XnProperty.cpp	74	Setting Depth1.FPS to 30...
+51676960	[INFO]	XnProperty.cpp	86	Depth1.FPS value did not change.
+51676977	[INFO]	XnProperty.cpp	74	Setting Depth1.YRes to 480...
+51676993	[INFO]	XnProperty.cpp	151	Property Depth1.Resolution was changed to 1.
+51677006	[INFO]	XnProperty.cpp	151	Property Depth1.XRes was changed to 640.
+51677018	[INFO]	XnProperty.cpp	151	Property Depth1.RequiredDataSize was changed to 307200.
+51677033	[INFO]	XnProperty.cpp	151	Property Depth1.YRes was changed to 480.
+51677044	[INFO]	XnProperty.cpp	151	Property Depth1.RequiredDataSize was changed to 614400.
+51677057	[INFO]	XnProperty.cpp	101	Depth1.YRes was successfully set.
+51677068	[INFO]	XnProperty.cpp	74	Setting Depth1.XRes to 640...
+51677082	[INFO]	XnProperty.cpp	86	Depth1.XRes value did not change.
+51677143	[INFO]	XnProperty.cpp	74	Setting Depth1.Mirror to 1...
+51677163	[INFO]	XnProperty.cpp	151	Property Depth1.FirmwareMirror was changed to 1.
+51677225	[INFO]	XnProperty.cpp	151	Property Depth1.Mirror was changed to 1.
+51677237	[INFO]	XnProperty.cpp	101	Depth1.Mirror was successfully set.

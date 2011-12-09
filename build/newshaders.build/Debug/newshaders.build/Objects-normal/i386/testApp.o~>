@@ -1,0 +1,4 @@
+/Users/ivanabasic/Documents/C++/of_preRelease_v0062_osxSL_FAT 2/SOLID Folder/solid folder/SOLID 1/src/testApp.cpp: In member function 'virtual void testApp::setup()':
+/Users/ivanabasic/Documents/C++/of_preRelease_v0062_osxSL_FAT 2/SOLID Folder/solid folder/SOLID 1/src/testApp.cpp:7: error: 'hit' was not declared in this scope
+/Users/ivanabasic/Documents/C++/of_preRelease_v0062_osxSL_FAT 2/SOLID Folder/solid folder/SOLID 1/src/testApp.cpp: In member function 'virtual void testApp::update()':
+/Users/ivanabasic/Documents/C++/of_preRelease_v0062_osxSL_FAT 2/SOLID Folder/solid folder/SOLID 1/src/testApp.cpp:75: error: 'hit' was not declared in this scope

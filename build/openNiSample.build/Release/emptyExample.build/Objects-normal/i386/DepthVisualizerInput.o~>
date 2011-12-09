@@ -1,0 +1,1 @@
+/Users/kyle/Documents/of_preRelease_v0062_osxSL_FAT/3dsav-apps/week7/depthVisualizerOpenNI/src/input/DepthVisualizerInput.cpp:371: error: no 'void DepthVisualizerInput::drawUser()' member function declared in class 'DepthVisualizerInput'
